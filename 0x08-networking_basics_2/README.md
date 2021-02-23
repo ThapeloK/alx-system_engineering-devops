@@ -4,6 +4,7 @@
 
 
 ## Description
+
 What you should learn from this project:
 
 * What is localhost/127.0.0.1
@@ -19,13 +20,13 @@ Table of contents
 <!--ts-->
    * [Description](#description)
    * [Table of contents](#table-of-contents)
-   * [General](#general)
+   * [Tasks](#tasks)
    * [Author](#author)
 <!--te-->
 
 ******************************************************************************
 
-### General
+### Tasks
 
 ### [2. Change your home IP](./2-change_your_home_IP)
 * Write a Bash script that configures an Ubuntu server with the below requirements.
