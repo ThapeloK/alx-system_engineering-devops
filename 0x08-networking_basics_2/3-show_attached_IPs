@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#displays active IPs on the machine
+ifconfig | LC_ALL="C" perl -nle'/dr:(\S+)/ && print $1'
