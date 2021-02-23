@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#sets your localhost to 127.0.0.2 and facebook.com to 8.8.8.8
+tail -n+2 /etc/hosts > hosts.new
+echo '127.0.0.2 localhost' | cat - hosts.new > temp && mv temp hosts.new
+echo '8.8.8.8 facebook.com' | cat - hosts.new > temp && mv temp hosts.new
+sudo cp hosts.new /etc/hosts
