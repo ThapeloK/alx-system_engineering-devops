@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#starts netcat listening to localhost and port 98
+sudo nc -l 98
