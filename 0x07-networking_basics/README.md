@@ -1,6 +1,6 @@
 # 0x07. Networking basics #0
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ThapeloK/alx-system_engineering-devops)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ThapeloK/alx-system_engineering-devops/tree/master/0x07-networking_basics)
 
 ### Description
 What you should learn from this project:
